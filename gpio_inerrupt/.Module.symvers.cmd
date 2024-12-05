@@ -1,0 +1,1 @@
+savedcmd_/home/tyr/ldd/gpio_inerrupt/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/tyr/ldd/gpio_inerrupt/Module.symvers -T /home/tyr/ldd/gpio_inerrupt/modules.order -i Module.symvers -e 

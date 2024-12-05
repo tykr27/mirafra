@@ -1,0 +1,1 @@
+savedcmd_/home/tyr/ldd/gpio_inerrupt/gpio_interrupt.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/tyr/ldd/gpio_inerrupt/gpio_interrupt.ko /home/tyr/ldd/gpio_inerrupt/gpio_interrupt.o /home/tyr/ldd/gpio_inerrupt/gpio_interrupt.mod.o

@@ -1,0 +1,1 @@
+savedcmd_/home/tyr/ldd/gpio_inerrupt/gpio_interrupt.mod := printf '%s\n'   gpio_interrupt.o | awk '!x[$$0]++ { print("/home/tyr/ldd/gpio_inerrupt/"$$0) }' > /home/tyr/ldd/gpio_inerrupt/gpio_interrupt.mod
